@@ -1,0 +1,10 @@
+growwapi
+pyotp
+python-dotenv
+pandas
+numpy
+matplotlib
+plotly
+jupyter
+ipykernel
+notebook
